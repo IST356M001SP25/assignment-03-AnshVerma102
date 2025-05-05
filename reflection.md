@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ansh Verma
+Sudent Email:  averma11@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use python in interdaces by using streamlit. I lwarned how to parse packaging strings, and how to track states using the session states. I had issue with getting the files to process as I struggled with saving the data in  JSON format. But I eventualy figured out how to keep track of the file and line counts with the session state.
